@@ -2,7 +2,7 @@
  * Prac4 *
  **************/
 
-import { core, data, sound, util, visual, hardware } from './lib/psychojs-2024.1.4.js';
+import { core, data, sound, util, visual, hardware } from './lib/psychojs-2026.1.0.js';;
 const { PsychoJS } = core;
 const { TrialHandler, MultiStairHandler } = data;
 const { Scheduler } = util;
