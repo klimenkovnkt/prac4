@@ -1,0 +1,81 @@
+gram_word,NON_gram_word,grammar_type,gr_side,nongr_side,right_side,new_or_old
+VJTVTV,JJTVTV,1,up,down,up,old
+VJTNVX,XJTTVX,1,down,up,down,old
+VTVJJJ,VTVJTN,1,up,down,up,old
+NNVTV,NNVJJ,1,down,up,down,old
+VTVJJ,VTVTN,1,up,down,up,old
+VJTNVJ ,VXTTVJ,1,down,up,down,new
+NNNVTV ,TNNVTX,1,up,down,up,new
+NVXJJJ,NVXJTT,1,down,up,down,new
+VJTVT,VJJTT,1,up,down,up,new
+NNNVX,XTNVX,1,down,up,down,new
+NVJTVX,NVXTVJ,1,up,down,up,old
+NVTVJJ,NVXVJT,1,down,up,down,old
+NNNVT,TNNVT,1,up,down,up,old
+NVTVJ,TVTXJ,1,down,up,down,old
+VXJJJ,VXTXJ,1,up,down,up,old
+VJTNVT ,XJTTVT,1,down,up,down,new
+VJTVXJ,VJJTXJ,1,up,down,up,new
+NNNVJ,TTNVJ,1,down,up,down,new
+VJTVX ,VJTXV,1,up,down,up,new
+NNVXJ,TNVXV,1,down,up,down,new
+BYFLBY,ZYFLBZ,2,up,down,up,old
+BFLBYY,BFZZYY,2,down,up,down,old
+FBZZFB,FBYYFB,2,up,down,up,old
+BFBZZ,BFBYY,2,down,up,down,old
+FBZZZ,FBZFZ,2,up,down,up,old
+BYYYFB,ZYYYFL,2,down,up,down,new
+BFLBFL,BFLZFZ,2,up,down,up,new
+FBZZZF,FLZZYF,2,down,up,down,new
+BYFBF,BYFZL,2,up,down,up,new
+FLBFB,FLZFB,2,down,up,down,new
+BYFBZZ,BYFZZL,2,up,down,up,old
+FLBFBF,LLBFBF,2,down,up,down,old
+BYFLBY,BZFLB,2,up,down,up,old
+FLBYY,FLLZY,2,down,up,down,old
+FBZFB,FLZFB,2,up,down,up,old
+BYYFBZ,BYYFZL,2,down,up,down,new
+FLBYFL,ZLBYFZ,2,up,down,up,new
+BYYFB,BZYFZ,2,down,up,down,new
+BFLBY,BZLZY,2,up,down,up,new
+FBFBY,FZLBY,2,down,up,down,new
+VJTVTV,JJTVTV,1,down,up,down,old
+VJTNVX,XJTTVX,1,up,down,up,old
+VTVJJJ,VTVJTN,1,down,up,down,old
+NNVTV,NNVJJ,1,up,down,up,old
+VTVJJ,VTVTN,1,down,up,down,old
+VJTNVJ ,VXTTVJ,1,up,down,up,new
+NNNVTV ,TNNVTX,1,down,up,down,new
+NVXJJJ,NVXJTT,1,up,down,up,new
+VJTVT,VJJTT,1,down,up,down,new
+NNNVX,XTNVX,1,up,down,up,new
+NVJTVX,NVXTVJ,1,down,up,down,old
+NVTVJJ,NVXVJT,1,up,down,up,old
+NNNVT,TNNVT,1,down,up,down,old
+NVTVJ,TVTXJ,1,up,down,up,old
+VXJJJ,VXTXJ,1,down,up,down,old
+VJTNVT ,XJTTVT,1,up,down,up,new
+VJTVXJ,VJJTXJ,1,down,up,down,new
+NNNVJ,TTNVJ,1,up,down,up,new
+VJTVX ,VJTXV,1,down,up,down,new
+NNVXJ,TNVXV,1,up,down,up,new
+BYFLBY,ZYFLBZ,2,down,up,down,old
+BFLBYY,BFZZYY,2,up,down,up,old
+FBZZFB,FBYYFB,2,down,up,down,old
+BFBZZ,BFBYY,2,up,down,up,old
+FBZZZ,FBZFZ,2,down,up,down,old
+BYYYFB,ZYYYFL,2,up,down,up,new
+BFLBFL,BFLZFZ,2,down,up,down,new
+FBZZZF,FLZZYF,2,up,down,up,new
+BYFBF,BYFZL,2,down,up,down,new
+FLBFB,FLZFB,2,up,down,up,new
+BYFBZZ,BYFZZL,2,down,up,down,old
+FLBFBF,LLBFBF,2,up,down,up,old
+BYFLBY,BZFLB,2,down,up,down,old
+FLBYY,FLLZY,2,up,down,up,old
+FBZFB,FLZFB,2,down,up,down,old
+BYYFBZ,BYYFZL,2,up,down,up,new
+FLBYFL,ZLBYFZ,2,down,up,down,new
+BYYFB,BZYFZ,2,up,down,up,new
+BFLBY,BZLZY,2,down,up,down,new
+FBFBY,FZLBY,2,up,down,up,new

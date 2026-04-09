@@ -1,0 +1,41 @@
+gram_word,NON_gram_word,grammar_type,gr_side,nongr_side,right_side
+VJTVTV,JJTVTV,1,up,down,up
+VJTNVX,XJTTVX,1,down,up,down
+VTVJJJ,VTVJTN,1,up,down,up
+NNVTV,NNVJJ,1,down,up,down
+VTVJJ,VTVTN,1,up,down,up
+VJTNVJ ,VXTTVJ,1,down,up,down
+NNNVTV ,TNNVTX,1,up,down,up
+NVXJJJ,NVXJTT,1,down,up,down
+VJTVT,VJJTT,1,up,down,up
+NNNVX,XTNVX,1,down,up,down
+NVJTVX,NVXTVJ,1,up,down,up
+NVTVJJ,NVXVJT,1,down,up,down
+NNNVT,TNNVT,1,up,down,up
+NVTVJ,TVTXJ,1,down,up,down
+VXJJJ,VXTXJ,1,up,down,up
+VJTNVT ,XJTTVT,1,down,up,down
+VJTVXJ,VJJTXJ,1,up,down,up
+NNNVJ,TTNVJ,1,down,up,down
+VJTVX ,VJTXV,1,up,down,up
+NNVXJ,TNVXV,1,down,up,down
+BYFLBY,ZYFLBZ,2,up,down,up
+BFLBYY,BFZZYY,2,down,up,down
+FBZZFB,FBYYFB,2,up,down,up
+BFBZZ,BFBYY,2,down,up,down
+FBZZZ,FBZFZ,2,up,down,up
+BYYYFB,ZYYYFL,2,down,up,down
+BFLBFL,BFLZFZ,2,up,down,up
+FBZZZF,FLZZYF,2,down,up,down
+BYFBF,BYFZL,2,up,down,up
+FLBFB,FLZFB,2,down,up,down
+BYFBZZ,BYFZZL,2,up,down,up
+FLBFBF,LLBFBF,2,down,up,down
+BYFLBY,BZFLB,2,up,down,up
+FLBYY,FLLZY,2,down,up,down
+FBZFB,FLZFB,2,up,down,up
+BYYFBZ,BYYFZL,2,down,up,down
+FLBYFL,ZLBYFZ,2,up,down,up
+BYYFB,BZYFZ,2,down,up,down
+BFLBY,BZLZY,2,up,down,up
+FBFBY,FZLBY,2,down,up,down
