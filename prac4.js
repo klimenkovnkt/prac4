@@ -94,7 +94,7 @@ psychoJS.start({
     {'name': '17G1L2.png', 'path': '17G1L2.png'},
     {'name': '18G1L2.png', 'path': '18G1L2.png'},
     {'name': 'letter_testing_table.csv', 'path': 'letter_testing_table.csv'},
-    {'name': 'default.png', 'path': 'https://pavlovia.org/assets/default/default.png'},
+    {'name': 'default.png', 'path': 'https://static.vecteezy.com/system/resources/thumbnails/002/098/203/small/silver-tabby-cat-sitting-on-green-background-free-photo.jpg'},
     {'name': 'noise.jpg', 'path': 'noise.jpg'},
   ]
 });
