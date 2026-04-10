@@ -234,7 +234,7 @@ async function experimentInit() {
     text: 'Эксперимент окончен!\nДождитесь зеленого окошка и слова "Goodbye"',
     font: 'Arial',
     units: undefined, 
-    pos: [0, 0], height: 0.05,  wrapWidth: undefined, ori: 0.0,
+    pos: [0, 0], height: 60.0,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: 0.0 
