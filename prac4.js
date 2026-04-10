@@ -94,7 +94,7 @@ psychoJS.start({
     {'name': '17G1L2.png', 'path': '17G1L2.png'},
     {'name': '18G1L2.png', 'path': '18G1L2.png'},
     {'name': 'letter_testing_table.csv', 'path': 'letter_testing_table.csv'},
-    {'name': 'default.png', 'path': '18G1L2.png'},
+    {'name': 'default.png', 'path': 'white-noise.png'},
     {'name': 'noise.jpg', 'path': 'noise.jpg'},
   ]
 });
