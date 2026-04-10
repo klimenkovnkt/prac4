@@ -169,7 +169,7 @@ async function experimentInit() {
   image = new visual.ImageStim({
     win : psychoJS.window,
     name : 'image', units : undefined, 
-    image : 'default.png', mask : undefined,
+    image : '10G1L2.png', mask : undefined,
     anchor : 'center',
     ori : 0.0, pos : [0, 0], size : [1200, 300],
     color : new util.Color([1,1,1]), opacity : undefined,
@@ -179,7 +179,7 @@ async function experimentInit() {
   image_noise = new visual.ImageStim({
     win : psychoJS.window,
     name : 'image_noise', units : undefined, 
-    image : 'default.png', mask : undefined,
+    image : '10G1L2.png', mask : undefined,
     anchor : 'center',
     ori : 0.0, pos : [0, 0], size : [1200, 300],
     color : new util.Color([1,1,1]), opacity : undefined,
